@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/cptiwari08/Chandra-P-TIwari/blob/main/687474703a2f2f73747564696f706978656c2e696e2f77702d636f6e74656e742f75706c6f6164732f323031372f31312f31386134393439666339633830363731373264336239366533303265373039372e676966.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 <h1 align="center">Hi 👋, I'm Chandra Prakash Tiwari</h1>
 <h3 align="center">A passionate DevOps Enginner from India</h3>
 
