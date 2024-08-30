@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on **GSL**
 
-- 🌱 I’m currently learning **DevSecOps,Kubernetes**
+- 🌱 I’m currently learning **Terraform,Azure DevOps,DevSecOps,Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://dev.azure.com/CPTiwari](https://dev.azure.com/CPTiwari)
 
