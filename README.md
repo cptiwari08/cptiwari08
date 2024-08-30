@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 <h1 align="center">Hi 👋, I'm Chandra Prakash Tiwari</h1>
-<h3 align="center">A passionate DevOps Enginner from India</h3>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
 
 <div align="center">
 <img width="100%" height = "250px" src="https://miro.medium.com/v2/resize:fit:1400/1*5kTaMPB5tDEBerSRL0GFeA.gif" />
@@ -13,7 +13,7 @@
 <div size='20px'> Hi! My name is Chandra Prakash Tiwari. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> About Me  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> <br> As a Cloud Engineer, I specialize in the comprehensive range of technological duties associated with cloud computing. My role encompasses the design, planning, management, maintenance, and support of cloud-based systems. This broad field includes specialized roles such as Cloud Architect, who designs and structures cloud infrastructure, and Cloud Software Engineer, who develops and optimizes cloud-native applications. My expertise spans these areas, enabling me to effectively contribute to and enhance cloud solutions across various facets of cloud technology. </h2>
 
 
 <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
