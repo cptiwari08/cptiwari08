@@ -23,7 +23,6 @@ Cloud Software Engineer – Developing and optimizing cloud-native applications.
 
 DevOps Engineer – Automating deployments, managing CI/CD pipelines, and ensuring infrastructure as code (IaC) best practices.
 
-
 With a strong foundation in cloud platforms, containerization, monitoring, security, and automation, I enable organizations to build, deploy, and maintain resilient cloud solutions efficiently. </h2>
 
 
