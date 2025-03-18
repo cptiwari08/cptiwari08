@@ -13,7 +13,7 @@
 <div size='20px'> Hi! My name is Chandra Prakash Tiwari. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> <br> As a Cloud Engineer, I specialize in the comprehensive range of technological duties associated with cloud computing. My role encompasses the design, planning, management, maintenance, and support of cloud-based systems. This broad field includes specialized roles such as Cloud Architect, who designs and structures cloud infrastructure, and Cloud Software Engineer, who develops and optimizes cloud-native applications. My expertise spans these areas, enabling me to effectively contribute to and enhance cloud solutions across various facets of cloud technology. </h2>
+<h2> About Me  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> <br> As a Cloud & DevOps Engineer, I specialize in the comprehensive range of technological duties associated with cloud computing. My role encompasses the design, planning, management, maintenance, and support of cloud-based systems. This broad field includes specialized roles such as Cloud Architect, who designs and structures cloud infrastructure, and Cloud Software Engineer, who develops and optimizes cloud-native applications. My expertise spans these areas, enabling me to effectively contribute to and enhance cloud solutions across various facets of cloud technology. </h2>
 
 
 <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
@@ -21,9 +21,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cptiwari08&label=Profile%20views&color=0e75b6&style=flat" alt="cptiwari08" /> </p>
 
-- 🔭 I’m currently working on **GSL**
+- 🔭 I’m currently working on **LTIMINDTREE**
 
-- 🌱 I’m currently learning **Terraform,Azure DevOps,DevSecOps,Kubernetes**
+- 🌱 I’m currently Working on
+- **Terraform,Azure DevOps,DevSecOps,Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://dev.azure.com/CPTiwari](https://dev.azure.com/CPTiwari)
 
